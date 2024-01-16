@@ -4,13 +4,15 @@ Ranked 2nd place for Best Thesis in IT. The project includes handy features like
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="public/images/screenshots/login.png" width="500">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="public/images/screenshots/dashboard.png" width="500">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="public/images/screenshots/dashboard_dm.png" width="500">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="public/images/screenshots/patrons.png" width="500">
+
+<img src="public/images/screenshots/patrons_dm.png" width="500">
 
 ## 🚀 About Me
 
