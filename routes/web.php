@@ -30,9 +30,9 @@ use App\Http\Controllers\ForgotPasswordController;
 use App\Http\Controllers\HelpController;
 use App\Http\Controllers\OnlineResourcesController;
 
-// Route::get('/linkstorage', function () {
-//     Artisan::call('storage:link');
-// });
+Route::get('/linkstorage', function () {
+    Artisan::call('storage:link');
+});
 
 // █▀▀█ █──█ ▀▀█▀▀ █──█ 
 // █▄▄█ █──█ ──█── █▀▀█ 
@@ -455,6 +455,12 @@ Route::middleware(['auth', 'temp.role.is.set', 'temp.role.librarian'])->group(fu
 
 
 Route::get('/test', [TestController::class, 'test']);
+Route::get('/success', function () {
+    echo "success";
+});
+Route::get('/failed', function () {
+    echo "failed";
+});
 // Route::get('/test', function(){
 //     return view('auth.change-password');
 // });
