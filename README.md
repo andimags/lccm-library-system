@@ -1,6 +1,6 @@
 # LCCM Library System
 
-Ranked 2nd place for Best Thesis in IT. The project includes handy features like automatic fine calculations, easy book setup using Google Books, night mode, and attendance and barcode functions.
+Ranked 2nd place for Best Thesis in IT. The project includes useful features like automatic fine calculations, easy book setup using Google Books, night mode, and attendance and barcode functions. Additionally, it can manage circulations both in-house and off-site, allow patrons to reserve books, send a screenshot of online payment, and generate reports.
 
 ## Screenshots
 
